@@ -4,4 +4,4 @@ Then, I created visualizations based on what I think other people would want to 
 I also implemented a "drill down" feature if someone would want to look at more data from these visualizations.
 
 
-![DataAnalystDashboard]([https://github.com/EPoon1/PowerBI_Project_Survey/blob/main/PowerBI_Visualization_Screenshot](https://github.com/EPoon1/PowerBI-Project_Survey/blob/main/SurveyDash.png))
+![DataAnalystDashboard](https://github.com/EPoon1/PowerBI-Project_Survey/blob/main/SurveyDash.png)
